@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://Mioshido30.github.io/learn-github-codespace",
+  "homepage": "http://dennistandelon.github.io/learn-github-codespace",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://Mioshido30.github.io/learn-github-codespace'",
+    "build-gh": "parcel build --public-url 'https://dennistandelongithub.io/learn-github-codespace'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },

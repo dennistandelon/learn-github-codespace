@@ -27,7 +27,7 @@ const siteProps = {
   name: "Dennis Tandelon",
   title: "Software Engineer",
   email: "dennis.tandelon@gmail.com",
-  gitHub: "Mioshido30",
+  gitHub: "dennistandelon",
   instagram: "dennis.tandelon",
   linkedIn: "dennistandelon",
   medium: "",
