@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://dennistandelongithub.io/learn-github-codespace'",
+    "build-gh": "parcel build --public-url 'https://dennistandelon.github.io/learn-github-codespace'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
