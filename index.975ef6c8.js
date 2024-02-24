@@ -27191,8 +27191,8 @@ const imageAltText = "purple and blue abstract background";
     "Backend Development",
     "Frontend Development",
     "System Analyst",
-    "Databases Query",
-    "DevOps", 
+    "Database Management",
+    "Big Data", 
 ];
 /**
  * Use this to give more information about what you are passionate about,
@@ -28761,7 +28761,7 @@ const imageAltText = "desktop with books and laptop";
     {
         title: "Epilog",
         description: "Online Book mobile apps, created using React Native, Firebase",
-        url: "https://github.com/Mioshido30/Epilog"
+        url: "https://github.com/dennistandelon/Epilog"
     },
     {
         title: "Mufiest",
