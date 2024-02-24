@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "Epilog",
     description: "Online Book mobile apps, created using React Native, Firebase",
-    url: "https://github.com/Mioshido30/Epilog",
+    url: "https://github.com/dennistandelon/Epilog",
   },
   {
     title: "Mufiest",

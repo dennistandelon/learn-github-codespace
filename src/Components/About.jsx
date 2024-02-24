@@ -35,8 +35,8 @@ const skillsList = [
   "Backend Development",
   "Frontend Development",
   "System Analyst",
-  "Databases Query",
-  "DevOps",
+  "Database Management",
+  "Big Data",
 ];
 
 /**
